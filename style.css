@@ -5,7 +5,7 @@ html , body{
 }
 html{
     font-size: 10px;
-    background: url('https://image.freepik.com/free-photo/wall-wallpaper-concrete-colored-painted-textured-concept_53876-31799.jpg');
+    background: url('bg.jpg');
     background-size: cover;
 }
 .keys{ 
