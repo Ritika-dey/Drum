@@ -5,7 +5,7 @@ html , body{
 }
 html{
     font-size: 10px;
-    background: url('/bg.jpg');
+    background-color:#000;
     background-size: cover;
 }
 .keys{ 
